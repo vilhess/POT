@@ -1,8 +1,8 @@
-# Unofficial Implementation of Anomaly Detection in Streams with Extreme Value Theory  
+# Unofficial Implementation of Anomaly Detection in Streams with Extreme Value Theory  + Utils function
 
 🔗 **Paper:** [Anomaly Detection in Streams with Extreme Value Theory](https://hal.science/hal-01640325/)  
 
-This repository provides an implementation of the **SPOT** and **DSPOT** algorithms from the paper *Anomaly Detection in Streams with Extreme Value Theory*.  
+This repository provides an implementation of the **SPOT** and **DSPOT** algorithms from the paper *Anomaly Detection in Streams with Extreme Value Theory*.
 
 ## 📌 About  
 
